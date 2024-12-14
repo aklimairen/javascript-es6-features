@@ -3,14 +3,11 @@
 
 A variety of improvements were added in JavaScript ES6 (ECMAScript 2015) and following iterations to make code easier, increase readability, and improve functionality. Let's explore some of ES6+'s most common features.
 
-
 ## 📚 Table of Contents
 
 1. [Template Literals](#template-literals)
 2. [Destructuring](#destructuring)
-   - [Array Destructuring](#array-destructuring)
-   - [Object Destructuring](#object-destructuring)
-3. [Object Literal Enhancements](#object-literal-enhancements)
+3. [Object Literal](#object-literal)
 4. [For-of Loop](#for-of-loop)
 5. [Spread Operator](#spread-operator)
 6. [Rest Operator](#rest-operator)
@@ -128,7 +125,7 @@ const user = { name, age };
 console.log(user); // Outputs: { name: 'Alice', age: 25 }
 ```
 
-### **for...of loop**
+### **for of loop**
 
 The for...of loop iterates across the values of an iterable (such as arrays, strings, or sets) sequentially.
 Each step of the loop is referred to as an iteration, and the current value goes to a loop variable.
