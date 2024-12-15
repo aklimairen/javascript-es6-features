@@ -1,4 +1,3 @@
-
 # Understanding the Key Features of ES6+ in JavaScript
 
 A variety of improvements were added in JavaScript ES6 (ECMAScript 2015) and following iterations to make code easier, increase readability, and improve functionality. Let's explore some of ES6+'s most common features.
@@ -13,10 +12,7 @@ A variety of improvements were added in JavaScript ES6 (ECMAScript 2015) and fol
 6. [Rest Operator](#rest-operator)
 7. [Arrow Functions](#arrow-functions)
 8. [Default Parameters](#default-parameters)
-9. [Classes](#classes)
-   - [Constructor](#constructor)
-   - [Methods](#methods)
-   - [Inheritance](#inheritance)
+9. [Class](#class)
 10. [Let &amp; Const](#let--const)
 11. [Export &amp; Import](#export--import)
     - [Named Exports](#named-exports)
@@ -420,7 +416,7 @@ Benefits of let and const
 * **Encourages Immutability** : `const` promotes the use of immutable references, leading to safer and more robust code.
 * **Cleaner Syntax** : Easier to understand intent (`const` for constants, `let` for mutable variables).
 
-### Export and Import
+### Export & Import
 
 ##### Export
 
