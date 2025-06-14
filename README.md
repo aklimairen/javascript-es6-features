@@ -1,5 +1,6 @@
 # Understanding the Key Features of ES6+ in JavaScript
 
+
 A variety of improvements were added in JavaScript ES6 (ECMAScript 2015) and following iterations to make code easier, increase readability, and improve functionality. Let's explore some of ES6+'s most common features.
 
 ## 📚 Table of Contents
